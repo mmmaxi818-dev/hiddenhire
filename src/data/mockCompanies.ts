@@ -1,0 +1,68 @@
+import type { Company } from '../types'
+
+export const mockCompanies: Record<string, Company> = {
+  'co-rehavital': {
+    id: 'co-rehavital',
+    name: 'RehaVital Nord',
+    summary: 'Rehakliniken mit Lehrküche und Gruppendiättherapie an der Ostseeküste.',
+    size: '800',
+    industry: 'Rehabilitation',
+    hq: 'Rostock',
+  },
+  'co-nutrimed': {
+    id: 'co-nutrimed',
+    name: 'NutriMed Praxisverbund',
+    summary: 'Ambulante Ernährungsberatung mit Schwerpunkt Stoffwechsel und Adipositas.',
+    size: '45',
+    industry: 'Ambulante Ernährung',
+    hq: 'München',
+  },
+  'co-kitchenlab': {
+    id: 'co-kitchenlab',
+    name: 'KitchenLab Berlin',
+    summary: 'Lehrküche und Präventionskurse für Kliniken und Betriebe in Berlin.',
+    size: '28',
+    industry: 'Prävention / Lehrküche',
+    hq: 'Berlin',
+  },
+  'co-gastrocare': {
+    id: 'co-gastrocare',
+    name: 'GastroCare Süd',
+    summary: 'Ambulante Gastroenterologie mit integrierter Diättherapie.',
+    size: '60',
+    industry: 'Ambulanz / Gastroenterologie',
+    hq: 'Stuttgart',
+  },
+  'co-onkonutri': {
+    id: 'co-onkonutri',
+    name: 'OnkoNutri Netzwerk',
+    summary: 'Netzwerk für onkologische Ernährungsberatung in Fachkliniken.',
+    size: '120',
+    industry: 'Onkologie / Ernährung',
+    hq: 'Köln',
+  },
+  'co-seniorvital': {
+    id: 'co-seniorvital',
+    name: 'SeniorVital Pflege',
+    summary: 'Stationäre Pflegeeinrichtungen mit Fokus auf altersgerechte Ernährung.',
+    size: '900',
+    industry: 'Pflege / Verpflegung',
+    hq: 'Hannover',
+  },
+  'co-sportfuel': {
+    id: 'co-sportfuel',
+    name: 'SportFuel Institute',
+    summary: 'Leistungsdiagnostik und Sporternährung für Amateursport und Reha.',
+    size: '35',
+    industry: 'Sporternährung',
+    hq: 'Leipzig',
+  },
+  'co-kinderernaehrung': {
+    id: 'co-kinderernaehrung',
+    name: 'KinderErnährung Nord',
+    summary: 'Pädiatrische Ernährungsberatung in Kooperation mit Kinderkliniken.',
+    size: '22',
+    industry: 'Pädiatrie / Ernährung',
+    hq: 'Hamburg',
+  },
+}

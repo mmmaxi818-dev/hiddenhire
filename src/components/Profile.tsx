@@ -8,7 +8,7 @@ export function Profile() {
     <div className="page max-w-xl space-y-5">
       <header className="fade-in">
         <h1 className="font-display text-[1.65rem] font-semibold sm:text-3xl">{tr('profile.title')}</h1>
-        <p className="mt-1 text-sm text-muted">Demo: Anna Berger · Diätassistentin · Berlin</p>
+        <p className="mt-1 text-sm text-muted">Demo: Maximilian Mugrauer · Mobilitätsingenieur · Düsseldorf</p>
       </header>
 
       <section className="surface rounded-2xl p-5 grid gap-3 sm:grid-cols-2">

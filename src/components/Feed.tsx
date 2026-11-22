@@ -173,7 +173,7 @@ export function Feed() {
             {tr('feed.keywords')}
             <input
               className="input"
-              placeholder="Diätassistent, HACCP…"
+              placeholder="Mobilität, GIS, Verkehrsplanung…"
               value={filters.keywords}
               onChange={(e) => setFilters((f) => ({ ...f, keywords: e.target.value }))}
             />

@@ -3,8 +3,8 @@ import type { Locale } from '../types'
 type Dict = Record<string, string>
 
 const de: Dict = {
-  'brand.tagline': 'Diätetik-Stellen, bevor sie öffentlich sind',
-  'brand.demo': 'Live-Pilot',
+  'brand.tagline': 'Mobilitäts-Stellen, live und verifiziert',
+  'brand.demo': 'Maximilian-Pilot',
   'nav.feed': 'Feed',
   'nav.saved': 'Gespeichert',
   'nav.applications': 'Bewerbungen',
@@ -15,14 +15,14 @@ const de: Dict = {
   'onboarding.title': 'HiddenHire einrichten',
   'onboarding.welcome': 'Willkommen',
   'onboarding.body':
-    'Pilot für Diätassistent:innen: Live-Stellen aus Softgarden, Klinik-ATS und BA Jobbörse, Match-Scores und Bewerbungsdokumente in einem Flow.',
+    'Persona Maximilian Mugrauer: Live-Stellen in Mobilität, Verkehrsplanung und GIS (DE, CH, SG, HK), Match-Scores und Bewerbungsdokumente in einem Flow.',
   'onboarding.profile': 'Profil',
   'onboarding.target': 'Zielrollen',
   'onboarding.location': 'Standort',
   'onboarding.continue': 'Weiter zum Feed',
-  'feed.title': 'Diätetik-Pilot',
+  'feed.title': 'Mobilität · Live-Match',
   'feed.subtitle':
-    'Live-/verified Diätetik- und Ernährungsstellen aus Softgarden, Klinik-ATS und BA Jobbörse in DE.',
+    'Live-/verified Mobilitäts-, Verkehrsplanungs- und GIS-Stellen (DE, CH, SG, HK) aus öffentlichen ATS- und Karriereseiten.',
   'feed.live': 'Live / verified',
   'feed.mock': 'Mock',
   'feed.filters': 'Filter',
@@ -125,8 +125,8 @@ const de: Dict = {
 }
 
 const en: Dict = {
-  'brand.tagline': 'Dietetics roles before they hit the board',
-  'brand.demo': 'Live pilot',
+  'brand.tagline': 'Live mobility roles, verified',
+  'brand.demo': 'Maximilian pilot',
   'nav.feed': 'Feed',
   'nav.saved': 'Saved',
   'nav.applications': 'Applications',
@@ -137,14 +137,14 @@ const en: Dict = {
   'onboarding.title': 'Set up HiddenHire',
   'onboarding.welcome': 'Welcome',
   'onboarding.body':
-    'Pilot for dietitians: live Softgarden, hospital ATS and BA Jobbörse listings, match scores, and application documents in one flow.',
+    'Persona Maximilian Mugrauer: live mobility, transport planning and GIS roles (DE, CH, SG, HK), match scores, and application documents in one flow.',
   'onboarding.profile': 'Profile',
   'onboarding.target': 'Target roles',
   'onboarding.location': 'Location',
   'onboarding.continue': 'Continue to feed',
-  'feed.title': 'Dietetics pilot',
+  'feed.title': 'Mobility · live match',
   'feed.subtitle':
-    'Live/verified dietetics and nutrition openings from Softgarden, hospital ATS and BA Jobbörse in DE.',
+    'Live/verified mobility, transport-planning and GIS openings (DE, CH, SG, HK) from public ATS and career pages.',
   'feed.live': 'Live / verified',
   'feed.mock': 'Mock',
   'feed.filters': 'Filters',

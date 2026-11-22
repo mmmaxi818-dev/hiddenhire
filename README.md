@@ -1,6 +1,6 @@
-# HiddenHire — Diätetik pilot
+# HiddenHire — Maximilian mobility pilot
 
-Job-search assistant for German-speaking Diätassistent:innen with **live Softgarden/hospital openings**, mock hidden-market posts, curated Kununu snapshots, and a CV Builder.
+Job-search assistant seeded for **Maximilian Mugrauer** (mobility / GIS / transport planning) with **live verified openings** in Germany, Switzerland, Singapore and Hong Kong, match scores, and a CV Builder.
 
 ## Run
 
